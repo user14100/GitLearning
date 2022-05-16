@@ -1,6 +1,6 @@
 package gitproject;
 
 public class EN {
-	public int totalStudents;
+	public int totalmanarmy;
 	public int totalSubjects;
 }

@@ -1,6 +1,6 @@
 package gitproject;
 
 public class EC {
-	public int totalchanges;
+	public int totalmanpower;
 	public int totalSemester;
 }
